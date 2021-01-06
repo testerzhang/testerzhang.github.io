@@ -1,3 +1,4 @@
+# 开源项目索引
 
 ## 说明：
 微信公众号: **testerzhang** ,分享相关技术文章、视频，欢迎关注。
@@ -7,6 +8,10 @@
 
 
 
+### 2021-01-06
+- [zt8989/novel-reader: 命令行看小说](https://github.com/zt8989/novel-reader.git) 
+- [lin-xin/vue-manage-system: vue-element管理界面样例](https://github.com/lin-xin/vue-manage-system.git)
+- [cdoco/common-regex: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。](https://github.com/cdoco/common-regex.git)
 
 
 ### 2021-01-05 
