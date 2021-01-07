@@ -7,6 +7,11 @@
 
 
 
+### 2021-01-07
+- [ahui2016/mima-web: 有特色的密码管理器](https://github.com/ahui2016/mima-web.git)
+- [jackfrued/Python-Core-50-Courses: Python 50课](https://github.com/jackfrued/Python-Core-50-Courses.git)
+- [xuchunyang/300: 唐诗三百首](https://github.com/xuchunyang/300.git)
+
 
 ### 2021-01-06
 - [zt8989/novel-reader: 命令行看小说](https://github.com/zt8989/novel-reader.git) 
