@@ -5,6 +5,9 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+### 2021-01-12
+- [mozillazg/pinyin-data: 汉字拼音数据](https://github.com/mozillazg/pinyin-data.git)
+- [wzb56/13_questions_of_shell: shell十三问--shell教程](https://github.com/wzb56/13_questions_of_shell.git)
 
 
 ### 2021-01-07
