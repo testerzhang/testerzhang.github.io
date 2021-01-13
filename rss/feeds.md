@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+### 2021-01-13
+- [anuraghazra/github-readme-stats: 显示github作者的提交数](https://github.com/anuraghazra/github-readme-stats.git)
+- [TurboWay/big_screen: 数据大屏生成工具，后端使用 flask。只要传一下数据，就可以制作出数据大屏，适合不了解前端的数据工作者。](https://github.com/TurboWay/big_screen.git)
+
+
 ### 2021-01-12
 - [mozillazg/pinyin-data: 汉字拼音数据](https://github.com/mozillazg/pinyin-data.git)
 - [wzb56/13_questions_of_shell: shell十三问--shell教程](https://github.com/wzb56/13_questions_of_shell.git)
