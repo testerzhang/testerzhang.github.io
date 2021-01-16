@@ -4,6 +4,11 @@
 微信公众号: **testerzhang** ,分享相关技术文章、视频，欢迎关注。
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
+### 2021-01-16
+- [openspug/spug: 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台](https://github.com/openspug/spug.git)
+- [cookieY/Yearning: MYSQL web 端 SQL 审核平台](https://github.com/cookieY/Yearning.git)
+- [MisterDaneel/pysoxy: Python脚本实现的小型的socks5服务](https://github.com/MisterDaneel/pysoxy.git)
+
 
 ### 2021-01-13
 - [anuraghazra/github-readme-stats: 显示github作者的提交数](https://github.com/anuraghazra/github-readme-stats.git)
