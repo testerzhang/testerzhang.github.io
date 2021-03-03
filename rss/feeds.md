@@ -4,6 +4,11 @@
 微信公众号: **testerzhang** ,分享相关技术文章、视频，欢迎关注。
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
+### 2021-03-03
+- [Binaryify/vue-tetris: Vue版的俄罗斯方块](https://github.com/Binaryify/vue-tetris.git)
+- [5iux/5iux.github.io: 静态版本的导航栏](5iux/5iux.github.io: 静态版本的导航栏)
+
+
 ### 2021-03-01
 - [zhaoolee/garss: Python版的rss](https://github.com/zhaoolee/garss.git)
 - [coleifer/sqlite-web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web.git)
