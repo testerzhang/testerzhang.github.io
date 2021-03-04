@@ -4,9 +4,14 @@
 微信公众号: **testerzhang** ,分享相关技术文章、视频，欢迎关注。
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
+### 2021-03-04
+- [polyrabbit/WeCron: 微信上的定时提醒](https://github.com/polyrabbit/WeCron.git)
+- [MisterDaneel/pysoxy: Python脚本实现的小型的socks5服务](https://github.com/MisterDaneel/pysoxy.git)
+
+
 ### 2021-03-03
 - [Binaryify/vue-tetris: Vue版的俄罗斯方块](https://github.com/Binaryify/vue-tetris.git)
-- [5iux/5iux.github.io: 静态版本的导航栏](5iux/5iux.github.io: 静态版本的导航栏)
+- [5iux/5iux.github.io: 静态版本的导航栏](https://github.com/5iux/5iux.github.io.git)
 
 
 ### 2021-03-01
