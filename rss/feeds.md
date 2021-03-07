@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-07
+- [yudai/gotty: 将您的终端共享为Web应用程序](https://github.com/yudai/gotty.git)
+- [Ciphey/Ciphey: 猜测加密算法](https://github.com/Ciphey/Ciphey.git)
+
+
 ## 2021-03-06
 - [munki/macadmin-scripts: 下载macos镜像](https://github.com/munki/macadmin-scripts.git)
 - [jackfrued/Python-100-Days: Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days.git)
