@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-10
+- [intests/pytestDemo: 使用 Python+Requests+Pytest+YAML+Allure 实现接口自动化！](https://github.com/intests/pytestDemo.git)
+- [codists/practical-python-zh: 《practical python programming》的中文翻译，以意译为主，目录不翻译，只翻译内容。](https://github.com/codists/practical-python-zh.git)
+
+
 ## 2021-03-09
 - [lionsoul2014/ip2region:  准确率99.9%的离线IP地址定位库，0.0x毫秒级查询！](https://github.com/lionsoul2014/ip2region.git)
 - [soraping/fc: 查基金代码的情况，python编写](https://github.com/soraping/fc.git)
