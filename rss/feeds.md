@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-11
+- [ justjavac/qr-ascii: 使用 ascii 码生成可以扫码的二维码](https://github.com/ justjavac/qr-ascii.git)
+- [geohot/minikeyvalue: 1000 行代码的分布式数据库](https://github.com/geohot/minikeyvalue.git)
+
+
 ## 2021-03-10
 - [intests/pytestDemo: 使用 Python+Requests+Pytest+YAML+Allure 实现接口自动化！](https://github.com/intests/pytestDemo.git)
 - [codists/practical-python-zh: 《practical python programming》的中文翻译，以意译为主，目录不翻译，只翻译内容。](https://github.com/codists/practical-python-zh.git)
