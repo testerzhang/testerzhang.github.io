@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-12
+- [cdr/code-server: vscode浏览器版本](https://github.com/cdr/code-server.git)
+- [prisma/prisma: Node.js 和 TypeScript 的 ORM 库，还提供了单独的查看数据库的 GUI 程](https://github.com/prisma/prisma.git)
+
+
 ## 2021-03-11
 - [ justjavac/qr-ascii: 使用 ascii 码生成可以扫码的二维码](https://github.com/ justjavac/qr-ascii.git)
 - [geohot/minikeyvalue: 1000 行代码的分布式数据库](https://github.com/geohot/minikeyvalue.git)
