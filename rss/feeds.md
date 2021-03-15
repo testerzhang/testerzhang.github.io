@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-15
+- [jwenjian/reading-list: 社区驱动的高质量聚合阅读列表](https://github.com/jwenjian/reading-list.git)
+- [0e0w/365Golang: 《365天深入理解Go语言》](https://github.com/0e0w/365Golang.git)
+
+
 ## 2021-03-12
 - [cdr/code-server: vscode浏览器版本](https://github.com/cdr/code-server.git)
 - [prisma/prisma: Node.js 和 TypeScript 的 ORM 库，还提供了单独的查看数据库的 GUI 程](https://github.com/prisma/prisma.git)
