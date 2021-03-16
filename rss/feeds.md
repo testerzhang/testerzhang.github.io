@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-16
+- [BadApple9/speedtest-x: 本仓库为 LibreSpeed 的延伸项目，LibreSpeed 是一个非常轻巧的网站测速工具。](https://github.com/BadApple9/speedtest-x.git)
+- [cloudreve/Cloudreve: 支持多家云存储的云盘系统](https://github.com/cloudreve/Cloudreve.git)
+
+
 ## 2021-03-15
 - [jwenjian/reading-list: 社区驱动的高质量聚合阅读列表](https://github.com/jwenjian/reading-list.git)
 - [0e0w/365Golang: 《365天深入理解Go语言》](https://github.com/0e0w/365Golang.git)
