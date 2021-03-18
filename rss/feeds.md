@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-18
+- [sapicd/sapic: 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee等，支持自定义扩展。](https://github.com/sapicd/sapic.git)
+- [Presburger/qmc-decoder: QQ音乐QMC3/QMC0/QMCFLAC文件解密](https://github.com/Presburger/qmc-decoder.git)
+
+
 ## 2021-03-17
 - [gitbucket/gitbucket: 搭建git仓库](https://github.com/gitbucket/gitbucket.git)
 - [cloudreve/Cloudreve: 支持多家云存储的云盘系统](https://github.com/cloudreve/Cloudreve.git)
