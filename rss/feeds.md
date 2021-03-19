@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-19
+- [yandenghong/KortUR: One-stop short url service.一站式的短网址服务,提供浏览器端及API两种方式缩短网址,以及可视化的流量追踪。](https://github.com/yandenghong/KortUR.git)
+- [2Dou/watermarker: 使用python脚本为图片添加文字水印](https://github.com/2Dou/watermarker.git)
+
+
 ## 2021-03-18
 - [sapicd/sapic: 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee等，支持自定义扩展。](https://github.com/sapicd/sapic.git)
 - [Presburger/qmc-decoder: QQ音乐QMC3/QMC0/QMCFLAC文件解密](https://github.com/Presburger/qmc-decoder.git)
