@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-24
+- [flameshot-org/flameshot: mac上的截图工具](https://github.com/flameshot-org/flameshot.git)
+- [orf/gping: gping 相对于ping的优点是可以以图形化的界面显示ping的延时](https://github.com/orf/gping.git)
+
+
 ## 2021-03-23
 - [zhaoolee/garss: 收集RSS, 打造无广告内容优质的 开源公众号超赞宝藏页](https://github.com/zhaoolee/garss.git)
 
