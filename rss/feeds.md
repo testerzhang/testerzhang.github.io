@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-25
+- [Moham3dRiahi/Th3inspector: 小巧的信息收集工具](https://github.com/Moham3dRiahi/Th3inspector.git)
+- [naiba/nezha: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，命令批量执行和计划任务](https://github.com/naiba/nezha.git)
+
+
 ## 2021-03-24
 - [flameshot-org/flameshot: mac上的截图工具](https://github.com/flameshot-org/flameshot.git)
 - [orf/gping: gping 相对于ping的优点是可以以图形化的界面显示ping的延时](https://github.com/orf/gping.git)
