@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-29
+- [adobe-fonts/source-han-sans: 思源黑体](https://github.com/adobe-fonts/source-han-sans.git)
+- [xpnas/inotify: 一个简易消息通知系统，支持企业微信、电报机器人、邮件推送，类似Server酱，支持私有Docker部署](https://github.com/xpnas/inotify.git)
+
+
 ## 2021-03-26
 - [crawlab-team/crawlab: 分布式爬虫管理平台，支持任何语言和框架](https://github.com/crawlab-team/crawlab.git)
 
