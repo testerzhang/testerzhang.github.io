@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-03-30
+- [MZCretin/RollToolsApi: 一个提供开发中常用数据的一个稳定聚合Api接口源，运行于独立服务器，免费，且长期维护，会持续添加新的接口！](https://github.com/MZCretin/RollToolsApi.git)
+- [sfyc23/EverydayWechat: 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）](https://github.com/sfyc23/EverydayWechat.git)
+
+
 ## 2021-03-29
 - [adobe-fonts/source-han-sans: 思源黑体](https://github.com/adobe-fonts/source-han-sans.git)
 - [xpnas/inotify: 一个简易消息通知系统，支持企业微信、电报机器人、邮件推送，类似Server酱，支持私有Docker部署](https://github.com/xpnas/inotify.git)
