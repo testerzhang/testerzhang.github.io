@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-02
+- [WeiYe-Jing/datax-web: DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。](https://github.com/WeiYe-Jing/datax-web.git)
+- [MechanicalSoup/MechanicalSoup: 是一款小众轻量级的爬虫神器！它使用纯 Python 开发，底层基于 Beautiful Soup 和 Requests，实现网页自动化及数据爬取](https://github.com/MechanicalSoup/MechanicalSoup.git)
+
+
 ## 2021-04-01
 - [EbookFoundation/free-programming-books: star数:180k,免费编程书籍](https://github.com/EbookFoundation/free-programming-books.git)
 - [filebrowser/filebrowser: Web File Browser](https://github.com/filebrowser/filebrowser.git)
