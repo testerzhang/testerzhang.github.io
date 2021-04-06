@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-06
+- [ls0f/PyTailLoge: 日志在web上显示出来](https://github.com/ls0f/PyTailLoge.git)
+- [ArchiveBox/ArchiveBox: 基于 Python 实现的网站归档平台。就是可以自动把网页（HTML、PDF、图片等）变成静态页面，下载到本地存储和管理的工具。可以用来做镜像站、档案馆、离线阅读等](https://github.com/ArchiveBox/ArchiveBox.git)
+
+
 ## 2021-04-02
 - [WeiYe-Jing/datax-web: DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。](https://github.com/WeiYe-Jing/datax-web.git)
 - [MechanicalSoup/MechanicalSoup: 是一款小众轻量级的爬虫神器！它使用纯 Python 开发，底层基于 Beautiful Soup 和 Requests，实现网页自动化及数据爬取](https://github.com/MechanicalSoup/MechanicalSoup.git)
