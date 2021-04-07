@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-07
+- [pear-admin/pear-admin-flask: 基于 Flask 生态，权限，快速开发平台体](https://github.com/pear-admin/pear-admin-flask.git)
+- [Kr1s77/awesome-python-login-model: python模拟登陆一些大型网站，还有一些简单的爬虫](https://github.com/Kr1s77/awesome-python-login-model.git)
+
+
 ## 2021-04-06
 - [ls0f/PyTailLoge: 日志在web上显示出来](https://github.com/ls0f/PyTailLoge.git)
 - [ArchiveBox/ArchiveBox: 基于 Python 实现的网站归档平台。就是可以自动把网页（HTML、PDF、图片等）变成静态页面，下载到本地存储和管理的工具。可以用来做镜像站、档案馆、离线阅读等](https://github.com/ArchiveBox/ArchiveBox.git)
