@@ -5,6 +5,10 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-08
+- [nanmu42/dsf: 极简HTTP文件服务](https://github.com/nanmu42/dsf.git)
+
+
 ## 2021-04-07
 - [pear-admin/pear-admin-flask: 基于 Flask 生态，权限，快速开发平台体](https://github.com/pear-admin/pear-admin-flask.git)
 - [Kr1s77/awesome-python-login-model: python模拟登陆一些大型网站，还有一些简单的爬虫](https://github.com/Kr1s77/awesome-python-login-model.git)
