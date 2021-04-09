@@ -5,6 +5,12 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-09
+- [gin-gonic/gin: Gin是一个go写的web框架，具有高性能的优点。](https://github.com/gin-gonic/gin.git)
+- [wumansgy/goEncrypt: go语言封装的各种对称加密和非对称加密，可以直接使用，包括3重DES，AES的CBC和CTR模式，还有RSA非对称加密,ECC椭圆曲线的加密和数字签名](https://github.com/wumansgy/goEncrypt.git)
+- [Hnfull/Intensio-Obfuscator: 混淆Python代码](https://github.com/Hnfull/Intensio-Obfuscator.git)
+
+
 ## 2021-04-08
 - [nanmu42/dsf: 极简HTTP文件服务](https://github.com/nanmu42/dsf.git)
 
