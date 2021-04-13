@@ -5,6 +5,10 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-13
+- [gotify/server: About A simple server for sending and receiving messages in real-time per WebSocket](https://github.com/gotify/server.git)
+
+
 ## 2021-04-12
 - [iPeng6/docsify-sidebar-collapse: docsify侧边栏折叠目录](https://github.com/iPeng6/docsify-sidebar-collapse.git)
 
