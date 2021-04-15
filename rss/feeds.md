@@ -5,6 +5,10 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-15
+- [zhaojh329/rtty: 它是能够通过 Web 登录 Linux 终端的开源项目。采用 C 语言实现，算上依赖库体积不到 100KB，可用于嵌入式 Linux 设备。拥有 Web 管理界面，用此项目可以方便地远程维护 Linux 设备。](https://github.com/zhaojh329/rtty.git)
+
+
 ## 2021-04-14
 - [lepfinder/dbmaster: 一个python实现的online SQL 查询器](https://github.com/lepfinder/dbmaster.git)
 
