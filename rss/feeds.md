@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-22
+- [ chavyleung/scripts: 一些签到的脚本](https://github.com/ chavyleung/scripts.git)
+- [shenghui0779/yiigo: Go 轻量级开发通用库](https://github.com/shenghui0779/yiigo.git)
+
+
 ## 2021-04-19
 - [kuanghy/kreminder: Linux下基于python的定时提醒工具。主要两个功能，一是间隔一定时间后提醒休息，二是提醒待办事项。](https://github.com/kuanghy/kreminder.git)
 
