@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-25
+- [ zhanghe06/news_spider: 新闻抓取（微信、微博、头条...）](https://github.com/ zhanghe06/news_spider.git)
+- [malaohu/CharlesLicense: Charles网络抓包调试利器，授权注册码在线生成！](https://github.com/malaohu/CharlesLicense.git)
+
+
 ## 2021-04-22
 - [ chavyleung/scripts: 一些签到的脚本](https://github.com/ chavyleung/scripts.git)
 - [shenghui0779/yiigo: Go 轻量级开发通用库](https://github.com/shenghui0779/yiigo.git)
