@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-26
+- [hanc00l/wooyun_public: 乌云公开漏洞、知识库爬虫和搜索](https://github.com/hanc00l/wooyun_public.git)
+- [ZSAIm/VideoCrawlerEngine: 实现的一个基于任务流式的可视化爬虫引擎。](https://github.com/ZSAIm/VideoCrawlerEngine.git)
+
+
 ## 2021-04-25
 - [ zhanghe06/news_spider: 新闻抓取（微信、微博、头条...）](https://github.com/ zhanghe06/news_spider.git)
 - [malaohu/CharlesLicense: Charles网络抓包调试利器，授权注册码在线生成！](https://github.com/malaohu/CharlesLicense.git)
