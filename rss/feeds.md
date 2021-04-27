@@ -5,6 +5,12 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-27
+- [521xueweihan/git-tips: Git的奇技淫巧](https://github.com/521xueweihan/git-tips.git)
+- [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog.git)
+- [wususu/effective-resourses: 学习资源整合](https://github.com/wususu/effective-resourses.git)
+
+
 ## 2021-04-26
 - [hanc00l/wooyun_public: 乌云公开漏洞、知识库爬虫和搜索](https://github.com/hanc00l/wooyun_public.git)
 - [ZSAIm/VideoCrawlerEngine: 实现的一个基于任务流式的可视化爬虫引擎。](https://github.com/ZSAIm/VideoCrawlerEngine.git)
