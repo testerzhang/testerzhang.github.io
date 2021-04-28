@@ -5,6 +5,10 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-04-28
+- [xjh22222228/nav: 发现导航 , 一个非常强大的静态导航网站(支持SEO)](https://github.com/xjh22222228/nav.git)
+
+
 ## 2021-04-27
 - [521xueweihan/git-tips: Git的奇技淫巧](https://github.com/521xueweihan/git-tips.git)
 - [nswbmw/N-blog: 一起学 Node.js](https://github.com/nswbmw/N-blog.git)
