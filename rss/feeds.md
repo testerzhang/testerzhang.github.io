@@ -5,6 +5,18 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-05-07
+- [jas502n/wxappUnpacker1: 反编译微信小程序, 支持分包](https://github.com/jas502n/wxappUnpacker1.git)
+
+
+## 2021-04-30
+- [billie66/TLCL: 快乐的 Linux 命令行](https://github.com/billie66/TLCL.git)
+- [judasn/Linux-Tutorial: Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial.git)
+- [idank/explainshell: explainshell 是一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释。](https://github.com/idank/explainshell.git)
+- [jaywcjlove/linux-command: About
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。](https://github.com/jaywcjlove/linux-command.git)
+
+
 ## 2021-04-28
 - [xjh22222228/nav: 发现导航 , 一个非常强大的静态导航网站(支持SEO)](https://github.com/xjh22222228/nav.git)
 
