@@ -5,8 +5,13 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-05-08
+- [DropsDevopsOrg/ECommerceCrawlers: 实战🐍多种网站、电商数据爬虫](https://github.com/DropsDevopsOrg/ECommerceCrawlers.git)
+
+
 ## 2021-05-07
 - [jas502n/wxappUnpacker1: 反编译微信小程序, 支持分包](https://github.com/jas502n/wxappUnpacker1.git)
+- [darjun/go-daily-lib: Go 每日一库](https://github.com/darjun/go-daily-lib.git)
 
 
 ## 2021-04-30
