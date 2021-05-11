@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-05-11
+- [nostarsnow/typeMonkey.js: 抖音字说很火的文字动画。](https://github.com/nostarsnow/typeMonkey.js.git)
+- [63isOK/love: 每天一句元气满满的话,送给芳芳/冰冰/尘尘.](https://github.com/63isOK/love.git)
+
+
 ## 2021-05-08
 - [DropsDevopsOrg/ECommerceCrawlers: 实战🐍多种网站、电商数据爬虫](https://github.com/DropsDevopsOrg/ECommerceCrawlers.git)
 
