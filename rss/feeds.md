@@ -5,6 +5,15 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-05-28
+- [emikulic/darkhttpd: 使用 C 编写的文件服务器，编译后为一个二进制文件无任何依赖，同时性能高和资源占用极低，非常适合在各种嵌入式设备上使用。](https://github.com/emikulic/darkhttpd.git)
+- [shenghui0779/yiigo: 一个好用的 Go 轻量级开发通用库](https://github.com/shenghui0779/yiigo.git)
+
+
+## 2021-05-17
+- [YuniorZen/hub: 一个为2岁～4岁婴儿开发的网页游戏，让孩子选有多少只符合条件的猫，比如红色的猫有多少只。](https://github.com/YuniorZen/hub.git)
+
+
 ## 2021-05-11
 - [nostarsnow/typeMonkey.js: 抖音字说很火的文字动画。](https://github.com/nostarsnow/typeMonkey.js.git)
 - [63isOK/love: 每天一句元气满满的话,送给芳芳/冰冰/尘尘.](https://github.com/63isOK/love.git)
