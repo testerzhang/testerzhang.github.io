@@ -5,6 +5,11 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-06-03
+- [rustdesk/rustdesk: 开源远程桌面软件,标星4.3k](https://github.com/rustdesk/rustdesk.git)
+- [FeeiCN/autossh.git: 基于expect脚本实现,方便ssh连上主机](https://github.com/FeeiCN/autossh.git.git)
+
+
 ## 2021-05-28
 - [emikulic/darkhttpd: 使用 C 编写的文件服务器，编译后为一个二进制文件无任何依赖，同时性能高和资源占用极低，非常适合在各种嵌入式设备上使用。](https://github.com/emikulic/darkhttpd.git)
 - [shenghui0779/yiigo: 一个好用的 Go 轻量级开发通用库](https://github.com/shenghui0779/yiigo.git)
