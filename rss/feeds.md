@@ -5,6 +5,10 @@
 ![gzh](https://testerzhang.github.io/resources/gzh.png)
 
 
+## 2021-06-30
+- [mstxq17/MoreCode: 一个常用编码加解密的懒人工具，自动识别，尝试转换所有类型，包括html实体化，base64，base32，32位md5，16位md5，hash，\x,0x等十六进制格式,url编码.](https://github.com/mstxq17/MoreCode.git)
+
+
 ## 2021-06-03
 - [rustdesk/rustdesk: 开源远程桌面软件,标星4.3k](https://github.com/rustdesk/rustdesk.git)
 - [FeeiCN/autossh.git: 基于expect脚本实现,方便ssh连上主机](https://github.com/FeeiCN/autossh.git.git)
